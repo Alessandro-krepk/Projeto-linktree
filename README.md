@@ -1,52 +1,68 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center">🔗 Meu LinkTree</h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+  <strong>Agregador de links pessoal - Cartão de visitas online</strong>
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <a href="https://alessandro-krepk.github.io/Projeto-linktree/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Acesse%20meu%20LinkTree-clique%20aqui-blue?style=for-the-badge&color=8257E5" alt="Acesse meu LinkTree"/>
+  </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto LinkTree" src=".github/preview.jpg" width="100%">
 </p>
+
+## 📋 Sobre
+
+Este é meu cartão de visitas online onde você pode encontrar todos os meus links importantes em um só lugar:
+
+- 🚀 **Portfolio** - Meus projetos no GitHub
+- 🎮 **Gaming** - Lives na Twitch  
+- 📚 **Educação** - Cursos que recomendo
+- 📧 **Contato** - Email para parcerias
+- 📱 **Redes Sociais** - Instagram, LinkedIn e mais
+
+## 🌐 Acesso Rápido
+
+**👉 [CLIQUE AQUI PARA ACESSAR MEU LINKTREE](https://alessandro-krepk.github.io/Projeto-linktree/) 👈**
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido com:
 
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
+- **HTML5** - Estrutura semântica
+- **CSS3** - Estilização e responsividade  
+- **JavaScript** - Interatividade (modo claro/escuro)
+- **GitHub Pages** - Deploy automático
 
-## 💻 Projeto
+## ✨ Funcionalidades
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+- ✅ Design responsivo para mobile e desktop
+- ✅ Modo claro e escuro
+- ✅ Links para redes sociais
+- ✅ Animações suaves
+- ✅ Fácil de personalizar
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+## 📱 Como usar
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+1. Acesse: [alessandro-krepk.github.io/Projeto-linktree](https://alessandro-krepk.github.io/Projeto-linktree/)
+2. Navegue pelos links do meu portfolio, redes sociais e contatos
+3. Use o botão toggle para alternar entre modo claro e escuro
 
-## 🔖 Layout
+## 🤝 Conecte-se comigo
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
+- **GitHub**: [@Alessandro-krepk](https://github.com/Alessandro-krepk)
+- **LinkedIn**: [Alessandro França](https://www.linkedin.com/in/alessandro-lu%C3%ADs-fran%C3%A7a-krepk-45522a300/)
+- **Instagram**: [@alessandro__franca](https://www.instagram.com/alessandro__franca/)
+- **Twitch**: [BadXiter](https://www.twitch.tv/BadXiter)
+- **Email**: alessandro1dev@gmail.com
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+<p align="center">
+  💜 Projeto desenvolvido durante o curso da <a href="https://rocketseat.com.br">Rocketseat</a>
+</p>
