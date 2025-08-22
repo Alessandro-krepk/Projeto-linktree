@@ -51,11 +51,7 @@ Este projeto foi desenvolvido com:
 
 ## 🤝 Conecte-se comigo
 
-- **GitHub**: [@Alessandro-krepk](https://github.com/Alessandro-krepk)
-- **LinkedIn**: [Alessandro França](https://www.linkedin.com/in/alessandro-lu%C3%ADs-fran%C3%A7a-krepk-45522a300/)
-- **Instagram**: [@alessandro__franca](https://www.instagram.com/alessandro__franca/)
-- **Twitch**: [BadXiter](https://www.twitch.tv/BadXiter)
-- **Email**: alessandro1dev@gmail.com
+- **LinkedIn**: [Alessandro Krepk]([https://www.linkedin.com/in/alessandro-lu%C3%ADs-fran%C3%A7a-krepk-45522a300/](https://www.linkedin.com/in/alessandrokrepk/))
 
 ---
 
