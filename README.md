@@ -26,10 +26,6 @@ Este é meu cartão de visitas online onde você pode encontrar todos os meus li
 - 📧 **Contato** - Email para parcerias
 - 📱 **Redes Sociais** - Instagram, LinkedIn e mais
 
-## 🌐 Acesso Rápido
-
-**👉 [CLIQUE AQUI PARA ACESSAR MEU LINKTREE](https://alessandro-krepk.github.io/Projeto-linktree/) 👈**
-
 ## 🚀 Tecnologias
 
 Este projeto foi desenvolvido com:
