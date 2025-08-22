@@ -51,7 +51,8 @@ Este projeto foi desenvolvido com:
 
 ## 🤝 Conecte-se comigo
 
-- **LinkedIn**: [Alessandro Krepk]([https://www.linkedin.com/in/alessandro-lu%C3%ADs-fran%C3%A7a-krepk-45522a300/](https://www.linkedin.com/in/alessandrokrepk/))
+* **Alessandro Krepk**
+* **LinkedIn:** [https://www.linkedin.com/](https://www.linkedin.com/in/alessandrokrepk/)
 
 ---
 
